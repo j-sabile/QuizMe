@@ -18,27 +18,35 @@ QuizMe is an innovative and user-friendly platform designed to revolutionize kno
 2. Install the dependencies:  
    ```
    cd backend
-    npm i  
+   npm i  
    ```  
    ```
    cd frontend
-    npm i  
+   npm i  
    ```
   
 3. Create .env in backend/ and frontend/  
    .env in backend
-   ```DATABASES=mongodb://127.0.0.1:27017/QuizMe
+   ```
+    DATABASES=mongodb://127.0.0.1:27017/QuizMe
     JWT_SECRET=<SecretString>
-    OPENAI_API_KEY=<OpenAIAPIKey>```  
+    OPENAI_API_KEY=<OpenAIAPIKey>
+    ```  
   
    .env in frontend  
-   ```REACT_APP_API=http://localhost:5000```  
+   ```
+   REACT_APP_API=http://localhost:5000
+   ```  
   
 4. Start the project:  
-   ```cd backend
-    node ./server.js```  
-   ```cd frontend
-    npm start```  
+   ```
+   cd backend
+   node ./server.js
+   ```  
+   ```
+   cd frontend
+   npm start
+   ```  
   
   
 ## Features  
