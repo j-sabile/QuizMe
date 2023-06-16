@@ -17,9 +17,11 @@ QuizMe is an innovative and user-friendly platform designed to revolutionize kno
   
 2. Install the dependencies:  
    ```cd backend
-    npm i```  
+    npm i  
+   ```  
    ```cd frontend
-    npm i```
+    npm i  
+   ```
   
 3. Create .env in backend/ and frontend/  
    .env in backend
