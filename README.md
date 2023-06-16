@@ -16,10 +16,12 @@ QuizMe is an innovative and user-friendly platform designed to revolutionize kno
    ```git clone https://github.com/j-sabile/quizMe.git```
   
 2. Install the dependencies:  
-   ```cd backend
+   ```
+   cd backend
     npm i  
    ```  
-   ```cd frontend
+   ```
+   cd frontend
     npm i  
    ```
   
