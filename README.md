@@ -12,7 +12,7 @@ QuizMe is an innovative and user-friendly platform designed to revolutionize kno
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:  
    `git clone https://github.com/j-sabile/quizMe.git`
 
 2. Install the dependencies
