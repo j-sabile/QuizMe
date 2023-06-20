@@ -28,7 +28,7 @@ QuizMe is an innovative and user-friendly platform designed to revolutionize kno
 3. Create .env in backend/ and frontend/  
    .env in backend
    ```
-    DATABASES=mongodb://127.0.0.1:27017/QuizMe
+    DATABASE=mongodb://127.0.0.1:27017/QuizMe
     JWT_SECRET=<SecretString>
     OPENAI_API_KEY=<OpenAIAPIKey>
     ```  
